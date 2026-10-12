@@ -1,0 +1,8 @@
+# Compiled binaries
+sube
+sube.exe
+*.o
+
+# Runtime data (do not commit real or test data)
+*.dat
+comprobante_*.txt
